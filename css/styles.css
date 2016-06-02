@@ -1,0 +1,19 @@
+.store-display{
+  text-align: center;
+}
+.product-display{
+  margin:0 auto;
+  width: 80%;
+}
+
+.card-search{
+  margin: 15px;
+  height: 35px;
+  font-size: 22px;
+  padding:4px;
+}
+
+.card-item{
+  width:150px;
+  margin:10px;
+}
